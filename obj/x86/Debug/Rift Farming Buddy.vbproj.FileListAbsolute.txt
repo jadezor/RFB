@@ -1,0 +1,3 @@
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Rift Farming Buddy.exe
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Rift Farming Buddy.xml
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Rift Farming Buddy.pdb

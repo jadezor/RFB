@@ -1,0 +1,11 @@
+C:\Programming\RFB\obj\x86\Debug\Rift Farming Buddy.exe
+C:\Programming\RFB\obj\x86\Debug\Rift Farming Buddy.xml
+C:\Programming\RFB\obj\x86\Debug\Rift Farming Buddy.pdb
+C:\Programming\RFB\bin\Debug\Rift Farming Buddy.exe
+C:\Programming\RFB\bin\Debug\Rift Farming Buddy.pdb
+C:\Programming\RFB\bin\Debug\Rift Farming Buddy.xml
+C:\Programming\RFB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Programming\RFB\obj\x86\Debug\RiftFarmingBuddy.Main.resources
+C:\Programming\RFB\obj\x86\Debug\RiftFarmingBuddy.Resources.resources
+C:\Programming\RFB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Programming\RFB\obj\x86\Debug\GenerateResource.write.1.tlog

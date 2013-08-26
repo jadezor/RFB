@@ -1,0 +1,11 @@
+c:\users\jadezor\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jadezor\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jadezor\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Rift Farming Buddy.exe
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Rift Farming Buddy.pdb
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Rift Farming Buddy.xml
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Rift Farming Buddy.exe
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Rift Farming Buddy.xml
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Rift Farming Buddy.pdb
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\RiftFarmingBuddy.Form1.resources
+C:\Users\Jadezor\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\RiftFarmingBuddy.Resources.resources
