@@ -1,0 +1,4 @@
+RFB
+===
+
+Rift Farming Bot
